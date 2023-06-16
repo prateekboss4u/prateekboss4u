@@ -1,49 +1,28 @@
-# Welcome to My GitHub Profile!
+<h1 align="center">Hi 👋, I'm Prateek Sikarwar</h1>
+<h3 align="center">A passionate Backend developer from India</h3>
 
-[![GitHub followers](https://img.shields.io/github/followers/YourUsername?style=social)](https://github.com/YourUsername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YourTwitterHandle?style=social)](https://twitter.com/YourTwitterHandle)
+- 🔭 I’m currently working on **Chess AI**
 
-Hello there! Welcome to my GitHub profile. I'm excited to have you here. This is where I showcase my projects, share my ideas, and collaborate with fellow developers from around the world. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions.
+- 🌱 I’m currently learning **Django Rest Framework**
 
-## About Me
+- 💬 Ask me about **Python, Django, DataStructures**
 
-I am a passionate and dedicated software developer with expertise in various technologies and programming languages. My curiosity and love for problem-solving drive me to constantly learn and improve my skills. I thrive on challenging projects that push the boundaries of my knowledge and allow me to unleash my creativity.
+- 📫 How to reach me **prateeksikarwa4@gmail.com**
 
-## My Interests
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BZ6l1MKd_yVEQLUuXzKn7FGVh6MQdAje/view?usp=sharing](https://drive.google.com/file/d/1BZ6l1MKd_yVEQLUuXzKn7FGVh6MQdAje/view?usp=sharing)
 
-- :computer: Full-stack web development
-- :rocket: Machine learning and artificial intelligence
-- :chart_with_upwards_trend: Data analysis and visualization
-- :art: User interface and user experience design
-- :gear: Open-source software
+- ⚡ Fun fact **I like to play Basketball🏀**
 
-## Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/prateeksikarwa4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prateeksikarwa4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prateek-sikarwar-15062a201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prateek-sikarwar-15062a201/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sheknows" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sheknows" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/seeki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="seeki" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prateeksikarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prateeksikarwar" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/prateek612002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="prateek612002" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/prateek612002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prateek612002" height="30" width="40" /></a>
+</p>
 
-Here are some of the notable projects I've worked on. Feel free to explore them and provide your feedback:
-
-- [Project 1](https://github.com/YourUsername/Project1): Short description of the project.
-- [Project 2](https://github.com/YourUsername/Project2): Short description of the project.
-- [Project 3](https://github.com/YourUsername/Project3): Short description of the project.
-
-To see more projects, please visit my [GitHub repositories](https://github.com/YourUsername?tab=repositories).
-
-## Skills
-
-- **Programming languages**: Python, JavaScript, Java, C++
-- **Web development**: HTML, CSS, JavaScript, React, Node.js, Django
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Machine learning**: TensorFlow, PyTorch
-- **Data analysis**: Pandas, NumPy, matplotlib, seaborn
-- **Tools**: Git, Docker, VS Code, Jupyter Notebook
-
-## Get in Touch
-
-I'm always open to interesting collaborations and opportunities. If you'd like to connect, you can find me on:
-
-- [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)
-- [Twitter](https://twitter.com/YourTwitterHandle)
-- [Personal website](https://www.yourwebsite.com)
-
-Feel free to reach out to me via email at your@email.com.
-
-Let's build something amazing together! 🚀
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
